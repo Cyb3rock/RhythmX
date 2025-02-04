@@ -16,8 +16,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "SSRR",
-  "license": "XX",
+  "author": "SKOP",
+  "license": "Abhishek",
   "engines": {
     "node": "20.x"
   }
